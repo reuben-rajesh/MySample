@@ -82,5 +82,6 @@
 -r:"C:\Users\Rajesh\.nuget\packages\System.Threading.Timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\Rajesh\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\Rajesh\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll"
+"e:\Workouts\HelloWorld\Armstrong.cs"
 "e:\Workouts\HelloWorld\Prime.cs"
 "e:\Workouts\HelloWorld\Program.cs"
