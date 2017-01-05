@@ -7,8 +7,8 @@
 -debug:portable
 -nostdlib
 -nologo
-"E:\Workouts\HelloWorld\obj\Debug\netcoreapp1.1\dotnet-compile.assemblyinfo.cs"
--out:"E:\Workouts\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.dll"
+"e:\Workouts\HelloWorld\obj\Debug\netcoreapp1.1\dotnet-compile.assemblyinfo.cs"
+-out:"e:\Workouts\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.dll"
 -r:"C:\Users\Rajesh\.nuget\packages\Microsoft.CSharp\4.3.0\ref\netstandard1.0\Microsoft.CSharp.dll"
 -r:"C:\Users\Rajesh\.nuget\packages\Microsoft.VisualBasic\10.1.0\ref\netstandard1.1\Microsoft.VisualBasic.dll"
 -r:"C:\Users\Rajesh\.nuget\packages\Microsoft.Win32.Primitives\4.3.0\ref\netstandard1.3\Microsoft.Win32.Primitives.dll"
@@ -82,4 +82,5 @@
 -r:"C:\Users\Rajesh\.nuget\packages\System.Threading.Timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\Rajesh\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\Rajesh\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll"
-"E:\Workouts\HelloWorld\Program.cs"
+"e:\Workouts\HelloWorld\Prime.cs"
+"e:\Workouts\HelloWorld\Program.cs"

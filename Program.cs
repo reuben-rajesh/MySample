@@ -6,8 +6,9 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.Beep();
+            //Print prime number
+            Prime.PrintPrime(3, 21);
+            Console.ReadLine();            
         }
     }
 }
