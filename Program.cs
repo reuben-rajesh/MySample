@@ -18,11 +18,12 @@ namespace ConsoleApplication
             //Sample Array Example
             //int count = Convert.ToInt32(Console.ReadLine());
             //string input = Console.ReadLine();
+            // int count = 5;
+            // string input = "66 13 56 42 22 33 44 88";
+            // ArraySample.PrintArraySample(count, input);
 
-            int count = 5;
-            string input = "66 13 56 42 22 33 44 88";
-
-            ArraySample.PrintArraySample(count, input);
+            //Sample Count Letter
+            CountLetters.PrintLetterCount("Techgig Is The Best Coding Platform.");
 
             Console.ReadLine();            
         }
